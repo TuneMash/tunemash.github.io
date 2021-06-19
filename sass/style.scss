@@ -139,10 +139,10 @@ body {
 	}
 }
 a {
-	color: $brand-primary;
+	color: $brand-white;
 	@include transition(.5s);
 	&:hover, &:active, &:focus {
-		color: $brand-primary;
+		color: $brand-white;
 		outline: none;
 		text-decoration: none;
 	}
