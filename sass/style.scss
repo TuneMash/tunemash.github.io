@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6, figure {
 				color: #fff;
 				@include transition(.5s);
 				&:hover,&:focus, &:active {
-					color: rgba(0,0,0,1);
+					color: rgba(0,0,0,0);
 				}
 			}
 			&.has-dropdown {
