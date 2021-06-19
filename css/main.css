@@ -40,4 +40,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    
+body {background-color: #101214;}
 }
